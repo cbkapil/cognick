@@ -1,0 +1,40 @@
+h1{
+color: blue;
+text-align: center;
+}
+
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1527580795266-e93c8e079c22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+    background-repeat:inherit
+  }
+     
+.form-control form-control-lg {
+    width: 100px;
+
+
+}
+
+label
+{
+
+color: blanchedalmond;
+
+}
+
+.jumbotron{
+box-align:center;
+
+}
+
+.container{
+
+    align-content: center;
+}
+
+btn btn-danger{
+    align-items: center;
+
+}
+
+ 
